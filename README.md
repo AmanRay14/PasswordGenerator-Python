@@ -9,4 +9,4 @@ of the password.
 
 1. Run the script.
 2. Enter the desired password length.
-3. The program will generate and display a random passwo
+3. The program will generate and display a random password
